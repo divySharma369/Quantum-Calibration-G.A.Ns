@@ -1,4 +1,4 @@
-# Quantum-GAN-Calibration: Advanced Pulse Optimization
+# Quantum-GAN-Calibration: Advanced Pulse Optimization.
 
 An industrial-grade framework for calibrating quantum gates using Physics-Informed Generative Adversarial Networks (PI-GANs). This project uses a GAN architecture to synthesize optimal control pulses that compensate for environmental decoherence and hardware drift.
 
@@ -16,7 +16,7 @@ Quantum calibration usually requires exhaustive sweeps (Rabi/Ramsey). This frame
 - `/training`: Adversarial training loops with physics-informed regularization.
 - `/utils`: Bloch sphere visualization and FFT signal analysis.
 
-## 🛠 Features
+##  Features
 
 - **Decoherence Modeling**: Simulates T1 and T2 relaxation during calibration.
 - **WGAN-GP Implementation**: Uses Wasserstein GAN with Gradient Penalty for stable convergence.
