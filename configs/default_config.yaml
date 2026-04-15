@@ -1,0 +1,16 @@
+training:
+  batch_size: 32
+  learning_rate: 0.0002
+  epochs: 100
+  latent_dim: 64
+
+quantum:
+  n_qubits: 1
+  t1: 50.0 # microseconds
+  t2: 70.0 # microseconds
+  sampling_rate: 1.0 # GHz
+
+pulse:
+  sequence_length: 128
+  max_amplitude: 1.0
+  type: "drag" # Derivative Removal by Adiabatic Gate
