@@ -1,7 +1,8 @@
 # Quantum-GAN-Calibration: Advanced Pulse Optimization
 
-![CI Status](https://github.com/divySharma369/Quantum-Calibration-G.A.Ns/actions/workflows/ci.yml/badge.svg)
+![CI Status](https://github.com/divySharma369/Quantum-Calibration-G.A.Ns/actions/workflows/ci.yml/badge.svg?branch=main)
 ![License](https://img.shields.io/github/license/divySharma369/Quantum-Calibration-G.A.Ns)
+![Stars](https://img.shields.io/github/stars/divySharma369/Quantum-Calibration-G.A.Ns?style=social)
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
 
 An industrial-grade framework for calibrating quantum gates using Physics-Informed Generative Adversarial Networks (PI-GANs). This project uses a GAN architecture to synthesize optimal control pulses that compensate for environmental decoherence and hardware drift.
